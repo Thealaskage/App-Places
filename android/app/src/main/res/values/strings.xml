@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ionic-Angular</string>
+    <string name="title_activity_main">Ionic-Angular</string>
+    <string name="package_name">com.alaskage.app</string>
+    <string name="custom_url_scheme">com.alaskage.app</string>
+</resources>
